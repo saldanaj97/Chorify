@@ -1,0 +1,38 @@
+Meeting minutes
+
+06/03/2020 2:20pm
+Start meeting
+
+
+Discussion of project format:
+	Android application
+	Java
+	AWS database
+
+
+Roles (Tentative):
+	Juan -- Front end
+	Rupesh -- Fill
+	Jonathon -- Backend
+	Michael -- Fill
+
+Github repository creation:
+	Juan created 
+Everyone else joining
+
+Discussion of possible project ideas:
+	N95 mask locator
+	Protest organizer
+	Marketplace app
+	
+
+To do before next class:
+	Pull and push to github our names
+	Think of a few more ideas
+	Download/familiarize Android Studio
+
+Next meeting:
+	After class 6/8/2020 2:20pm
+
+End meeting
+06/03/2020 2:45pm
