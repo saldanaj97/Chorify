@@ -1,4 +1,4 @@
-# 3444-Mobile-App
+# Chorify
 An Android application for finding a profesional with a skill that is in need. 
  
 ## Table of contents
